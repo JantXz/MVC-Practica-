@@ -2,7 +2,7 @@ package pkgModelo;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//no puedo acceder
 public class Tester {
 
 	/**
